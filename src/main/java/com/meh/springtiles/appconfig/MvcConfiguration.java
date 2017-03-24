@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.tiles3.TilesView;
 
 @EnableWebMvc
 @Configuration
-@ComponentScan(basePackages="com.monty.goofy")
+@ComponentScan(basePackages="com.meh.springtiles")
 public class MvcConfiguration extends WebMvcConfigurerAdapter{
 	   
 
