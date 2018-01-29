@@ -1,3 +1,3 @@
-# springTiles
+# Spring Boot + Tiles 3
 
-Proyecto ejemplo de como usar Spring con Tiles.
+Ejemplo de proyecto básico con Spring Boot + tiles 3
