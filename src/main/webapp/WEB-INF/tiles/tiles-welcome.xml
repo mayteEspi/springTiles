@@ -4,7 +4,7 @@
        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">  
        
 <tiles-definitions>
-	<definition>
-	
+	<definition name="welcomeMeh" extends="notlogin-template">				
+		<put-attribute name="body" value="/views/fragments/welcome.jsp"/>
 	</definition>
 </tiles-definitions>

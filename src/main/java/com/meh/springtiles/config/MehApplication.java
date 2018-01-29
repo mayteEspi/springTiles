@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OnetecServicesApplication {
+public class MehApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OnetecServicesApplication.class, args);
+		SpringApplication.run(MehApplication.class, args);
 	}
 	
 }
