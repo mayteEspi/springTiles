@@ -1,4 +1,4 @@
-package com.meh.springtiles.appconfig;
+package com.meh.springtiles.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
